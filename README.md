@@ -54,19 +54,19 @@ guide to get started.
 
 ### Contributors
 
-Thank you to all the people who have already contributed to phenomic!
+Thanks to all the people who have already contributed to phenomic!
 <a href="https://github.com/phenomic/phenomic/graphs/contributors"><img src="https://opencollective.com/phenomic/contributors.svg?width=890" /></a>
 
 ### Backers
 
-Thank you to all our backers!
+Thanks to all our backers!
 [[Become a backer](https://opencollective.com/phenomic#backer)]
 
 <a href="https://opencollective.com/phenomic#backers" target="_blank"><img src="https://opencollective.com/phenomic/backers.svg?width=890"></a>
 
 ### Sponsors
 
-Thank you to all our sponsors! (please ask your company to also support this
+Thanks to all our sponsors! (please ask your company to also support this
 open source project by
 [becoming a sponsor](https://opencollective.com/phenomic#sponsor))
 
